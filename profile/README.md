@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🧙Car Integrated🧙
 Declaração de Escopo: Sistema de Gerenciamento de Oficina
 
 Objetivo do Projeto: Desenvolver um software de gerenciamento de oficina de carros que otimize o fluxo de trabalho, agendamento, estoque de peças e registro de serviços. O software tem como objetivo melhorar a eficiência operacional, o atendimento ao cliente e o controle de estoque da oficina.
@@ -27,5 +27,5 @@ Faturamento e Pagamentos: O sistema calculará automaticamente os custos dos ser
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+ Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
