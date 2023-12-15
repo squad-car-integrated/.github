@@ -1,6 +1,6 @@
 ## 🧙Car Integrated🧙
-Aplicação online na vercel: https://car-integrated-front.vercel.app/
-Usuario: admin@gmail.com 
+Aplicação online na vercel: https://car-integrated-front.vercel.app/ <br>
+Usuario: admin@gmail.com <br>
 Senha: 123123
 Declaração de Escopo: Sistema de Gerenciamento de Oficina
 
