@@ -1,6 +1,7 @@
 ## 🧙Car Integrated🧙
 Aplicação online na vercel: https://car-integrated-front.vercel.app/
-
+Usuario: admin@gmail.com 
+Senha: 123123
 Declaração de Escopo: Sistema de Gerenciamento de Oficina
 
 • Objetivo do Projeto: Desenvolver um software de gerenciamento de oficina de carros que otimize o fluxo de trabalho, agendamento, estoque de peças e registro de serviços. O software tem como objetivo melhorar a eficiência operacional, o atendimento ao cliente e o controle de estoque da oficina.
